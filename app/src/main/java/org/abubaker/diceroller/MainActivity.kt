@@ -6,8 +6,7 @@ import androidx.databinding.DataBindingUtil
 import org.abubaker.diceroller.databinding.ActivityMainBinding
 
 /**
- * This activity allows the user to roll a dice and view the result
- * on the screen.
+ * This activity allows the user to roll a dice and view the result on the screen.
  */
 class MainActivity : AppCompatActivity() {
 
