@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         val diceRoll = dice.roll()
 
         // Update the screen with the dice roll
-        mBinding.resultTextView.text = diceRoll.toString()
+        // mBinding.resultTextView.text = diceRoll.toString()
 
         // Sample toast message
         val toast = Toast.makeText(this, "Dice Rolled!", Toast.LENGTH_SHORT)
